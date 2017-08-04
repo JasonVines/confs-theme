@@ -1,9 +1,9 @@
 # Site settings
 title: My Journey Blog
 email: mrvines94@gmail.com
-description: Thoughts while traveling a new career path.
+description: Thoughts As I Move Towards The Unknown
 baseurl: "/personal-blog"
-twitter_username: The Nerdistry
+twitter_username: The_Nerdistry
 avatar: "img/Beau headshot.jpg" # Set footer avatar
 paginate: 3
 
