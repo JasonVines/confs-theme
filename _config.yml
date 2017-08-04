@@ -1,11 +1,10 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
-url: ""
-twitter_username: 
-avatar: "" # Set footer avatar
+title: My Journey Blog
+email: mrvines94@gmail.com
+description: Thoughts while traveling a new career path.
+baseurl: "/personal-blog"
+twitter_username: The Nerdistry
+avatar: "img/Beau headshot.jpg" # Set footer avatar
 paginate: 3
 
 # Build settings
@@ -19,8 +18,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Jason Vines" # Set default author name
+      categories: "thoughts"
       layout: "post"
       comments: true
   -
